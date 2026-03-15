@@ -26,3 +26,7 @@
 - HTML5
 - CSS3 (с анимациями)
 - JavaScript (ES6+)
+
+## Ссылка
+
+https://github.com/ekaterinafrangulova-blip/zakrivayuschiy-teg-f
