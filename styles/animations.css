@@ -67,6 +67,7 @@
 
 .like-icon.is-liked .sparks {
   animation: sparks-appear 0.3s ease-in 0.3s 1 alternate;
+  transform-origin: center;
 }
 
 /* === Keyframes === */

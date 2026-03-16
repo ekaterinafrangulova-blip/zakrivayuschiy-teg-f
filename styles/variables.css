@@ -6,8 +6,8 @@
   --accent-color: #000;
   --main-font: "Inter-Variable", sans-serif;
   --accent-font: "PressStart2P", fantasy;
-  --text-weight: 400;
-  --title-weight: 785;
+  --text-weight: 410;
+  --title-weight: 715;
   --content-gap: 25px;
   --card-gap: 50px;
   --width-clamp: clamp(375px, 100%, 700px);
