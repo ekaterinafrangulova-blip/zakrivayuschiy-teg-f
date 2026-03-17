@@ -245,9 +245,12 @@
 
 /* === Кнопка Сохранить === */
 
-.save-button {
-  padding: 15px 20px;
-}
+.footer {
+    padding-bottom: 100px;
+     min-width: 335px;
+  min-height: 55px;
+  }
+
 
 .save-button__icon {
   position: relative;
@@ -310,6 +313,11 @@
   block-size: 38px;
   text-transform: uppercase;
 }
+.dialog__form {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+}
 
 /* === Фильтры === */
 
@@ -359,7 +367,7 @@
   }
 
   .save-button {
-    flex-direction: column;
+    flex-direction: column; 
   }
 
   .save-button__icon {
